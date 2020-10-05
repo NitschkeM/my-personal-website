@@ -1,0 +1,15 @@
+********** For Later: **********
+
+Ref: https://react-bootstrap.netlify.app/getting-started/introduction/
++ If you plan on customizing the Bootstrap Sass files, or don't want to use a CDN for the stylesheet, it may be helpful to install vanilla Bootstrap as well.
+Q: Can we Customize the bootstrap Sassfiles while still using a CDN for the stylesheet?
+Note: We believe the statement above implies that the way we installed bootstrap means we use CDN by default (not confirmed, TODO: Confirm).
+
+Q: Can we make VS Code open a new browser window when we type: npm start ?
+Ref: Link elements with class/CssClass: btn btn-primary btn-lg, in HomePage.js
+Note: We believe this might be configurable through npm-configuration.
+    Q: How are these related?: https://docs.npmjs.com/misc/config#default-configs AND npm config -help
+
+*********** TODOs: ************
+
+Q: Why does the resulting links not look like Buttons now? Should they not be BigBlue or something?
